@@ -56,4 +56,8 @@ Shopify could help CPP Farm Store expand its online presence and reach more cust
 
 # Appendix
 
-Additional screenshots and supporting materials are included below.
+GitHub Repository:
+https://github.com/WentingJiang00/Shopify-assign1
+
+GitHub Pages:
+https://wentingjiang00.github.io/Shopify-assign1/
