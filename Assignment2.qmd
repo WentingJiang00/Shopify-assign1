@@ -1,0 +1,81 @@
+---
+title: "ITP-W04 Shopify Store - Assignment 2 - Store Concept and Initial Shopify Setup"
+author: "Wenting Jiang"
+date: Jun 27,2026
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+# Store Name and Concept
+
+## Store Name
+
+EverCharm
+
+## Store Concept
+
+EverCharm is an online boutique specializing in handcrafted crystal bracelets and fashionable jewelry accessories. The store offers colorful crystal bracelets designed for everyday wear and thoughtful gifts.
+
+# Target Customer
+
+The target customers for EverCharm are primarily women aged 18–60 who enjoy handmade jewelry, fashion accessories, and gift shopping.
+
+Characteristics include:
+
+-   Interested in fashion and personal style
+-   Enjoys wearing crystal bracelets and fashion accessories
+-   Frequently shops online
+-   Values product quality and beautiful product photography
+-   Purchases jewelry for personal use and gifts for friends and family
+
+# Product Category Plan
+
+EverCharm offers several product categories to make it easier for customers to browse different styles of jewelry.
+
+| Product Category | Description |
+|----|----|
+| Crystal Bracelets | Handcrafted crystal bracelets in different colors and styles. |
+| Charm Bracelets | Bracelets featuring butterfly, floral, starfish, and symbolic charms. |
+| Gift Collection | Bracelet collections suitable for birthdays, holidays, and special occasions. |
+| Fashion Accessories | Future accessories such as necklaces, earrings, rings, and hair accessories. |
+
+# Initial Shopify Setup Evidence
+
+## Shopify Admin Area
+
+![](shopify-admin.png)
+
+## Selected Theme
+
+![](selected-theme.png)
+
+## Homepage Draft
+
+![](homepage-draft.png)
+
+# Connection to CPP Farm Store
+
+Creating EverCharm helped me understand the importance of product organization, branding, and customer experience. These ideas could also help improve the CPP Farm Store by organizing products into clear categories, using attractive product photography, and designing a homepage that is easy for customers to navigate.
+
+# Appendix
+
+## Store Information
+
+-   Store Name: EverCharm
+-   Theme: Horizon
+-   Main Collection: Crystal Bracelets
+-   Number of Products: 6
+
+## GitHub Links
+
+-   GitHub Repository: <https://github.com/WentingJiang00/Shopify-Assignment>
+
+-   GitHub Pages: <https://wentingjiang00.github.io/Shopify-Assignment/>
